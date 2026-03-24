@@ -135,7 +135,7 @@ Prix
 
 | # | Tutoriel | Lien |
 |:-:|:---|:---:|
-| 1 | Stop Loss Automatique | [GitHub](https://github.com/VOTRE_USER/Tuto-MT5-Stop-Loss-Automatique) |
+| 1 | Stop Loss Automatique | [GitHub](https://github.com/autoea-online/Tuto-MT5-Stop-Loss-Automatique) |
 | 2 | Take Profit Automatique | [GitHub](https://github.com/VOTRE_USER/Tuto-MT5-Take-Profit-Automatique) |
 | 3 | TP Partiel Automatique | [GitHub](https://github.com/VOTRE_USER/Tuto-MT5-TP-Partiel-Automatique) |
 | **4** | **Trailing Stop (ce tuto)** | **Vous êtes ici** |
